@@ -6,7 +6,7 @@ var typed = $(".typed");
 
 $(function () {
   typed.typed({
-    strings: ["Ilham Risan Gumawang.", "student.", "employee."],
+    strings: ["Ilham Risan Gumawang.", "Student.", "Employee."],
     typeSpeed: 100,
     loop: true,
   });
