@@ -2,7 +2,7 @@
 //  Typed Js
 // ========================================================================= //
 
-var typed = $(".typed");
+var typed = $("typed");
 
 $(function () {
   typed.typed({
